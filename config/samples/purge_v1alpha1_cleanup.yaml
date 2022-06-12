@@ -1,0 +1,6 @@
+apiVersion: purge.k8s.nan.dev/v1alpha1
+kind: Cleanup
+metadata:
+  name: cleanup-sample
+spec:
+  # TODO(user): Add fields here
